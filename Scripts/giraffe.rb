@@ -1,3 +1,10 @@
 #!/usr/bin/env ruby
 
-print "Hello World"
+# Drawing shapes
+
+puts "  __ "
+puts " /. |"
+puts "/___|"
+puts "   /|"
+puts "  /v|"
+puts " /  |"
