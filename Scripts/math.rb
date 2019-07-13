@@ -20,3 +20,7 @@ num.floor() # Rounds to the lowest number
 
 puts Math.sqrt(36) # Returns the square root of the argument
 puts Math.log(1) # Returns the logarithm of the argument
+
+puts 1.0 + 7 # This returns a floating point, not an integer
+puts 10 / 7 # This returns an integer
+puts 10 / 7.0 # This returns a floating point
